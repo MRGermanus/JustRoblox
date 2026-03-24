@@ -1,4 +1,4 @@
---Simple teleport script by GermanusRBX, enjoy!--
+--Simple teleport script by TihiyOmut, enjoy!--
 --and sorry for the interface, im not a good designer, at least its working--
 
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
